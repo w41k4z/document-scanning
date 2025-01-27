@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "830520015007",
+    "project_id": "x-image-to-text-x",
+    "storage_bucket": "x-image-to-text-x.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830520015007:android:4fc5826ae82fe98dad8aaa",
+        "android_client_info": {
+          "package_name": "com.example.document_scanning"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOdweZxhauPYnQy3hJlwu-CIgltXv8PVI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
